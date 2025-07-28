@@ -1,4 +1,4 @@
-namespace MyCleanAPI.Domain.Entity
+namespace MyCleanAPI.Domain.Entities
 {
     public class User
     {
